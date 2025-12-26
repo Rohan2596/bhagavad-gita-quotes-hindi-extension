@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Bhagavad Gita Quotes</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <div class="title">
+        <span class="icon">🕉</span>
+        <h1>Bhagavad Gita</h1>
+      </div>
+      <div class="header-actions">
+        <button id="favBtn" title="Favorite">🤍</button>
+        <button id="themeToggle" title="Toggle theme">🌙</button>
+      </div>
+    </header>
+
+    <!-- Quote -->
+    <div class="quote-card">
+      <p id="quoteText">Loading quote...</p>
+      <span id="quoteRef"></span>
+    </div>
+
+    <!-- Controls -->
+    <button id="showFavsBtn" class="fav-toggle">
+      ⭐ View Favorites
+    </button>
+
+    <button id="nextBtn" class="next-btn">
+      Next Quote ▶
+    </button>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
