@@ -1,289 +1,184 @@
 [
-  {
-    "text": "Whenever dharma declines and the purpose of life is forgotten, I manifest myself on earth. I am born in every age to protect the good, to destroy evil, and to reestablish dharma.",
-    "ref": "BG 4.7–8"
-  },
-  {
-    "text": "As they approach me, so I receive them. All paths, Arjuna, lead to me.",
-    "ref": "BG 4.11"
-  },
-  {
-    "text": "I am the beginning, middle, and end of creation.",
-    "ref": "BG 10.20"
-  },
-  {
-    "text": "I am time, the destroyer of all; I have come to consume the world.",
-    "ref": "BG 11.32"
-  },
-  {
-    "text": "There are three gates to hell: lust, anger, and greed. Renounce these three.",
-    "ref": "BG 16.21"
-  },
-  {
-    "text": "You have the right to work, but never to the fruit of work.",
-    "ref": "BG 2.47"
-  },
-  {
-    "text": "Fill your mind with me; love me; worship me always.",
-    "ref": "BG 18.65"
-  },
-  { "text": "The soul is eternal, indestructible, and immeasurable.", "ref": "BG 2.18" },
-  { "text": "Just as a person discards worn-out clothes and puts on new ones, the soul discards old bodies and enters new ones.", "ref": "BG 2.22" },
-  { "text": "Weapons cannot cut the soul, fire cannot burn it.", "ref": "BG 2.23" },
-  { "text": "Cold and heat, pleasure and pain come and go; endure them.", "ref": "BG 2.14" },
-  { "text": "The wise are not disturbed by pleasure or pain.", "ref": "BG 2.15" },
-  { "text": "Action is better than inaction.", "ref": "BG 3.8" },
-  { "text": "All actions are performed by the modes of nature.", "ref": "BG 3.27" },
-  { "text": "One who controls the senses with the mind is superior.", "ref": "BG 3.7" },
-  { "text": "Sacrifice performed without desire leads to liberation.", "ref": "BG 4.33" },
-  { "text": "There is nothing as purifying as spiritual knowledge.", "ref": "BG 4.38" },
-  { "text": "Doubtless knowledge cuts ignorance to pieces.", "ref": "BG 4.42" },
-  { "text": "One who sees action in inaction is wise.", "ref": "BG 4.18" },
-  { "text": "Renunciation and selfless action both lead to freedom.", "ref": "BG 5.2" },
-  { "text": "The wise see with equal vision a learned person and an outcaste.", "ref": "BG 5.18" },
-  { "text": "One who is inwardly joyful attains liberation.", "ref": "BG 5.24" },
-  { "text": "Let a person lift themselves by their own mind.", "ref": "BG 6.5" },
-  { "text": "The mind can be a friend or an enemy.", "ref": "BG 6.6" },
-  { "text": "Yoga is moderation in eating, sleeping, and working.", "ref": "BG 6.17" },
-  { "text": "A steady mind is achieved through practice and detachment.", "ref": "BG 6.35" },
-  { "text": "Among yogis, the devoted one is the highest.", "ref": "BG 6.47" },
-  { "text": "I am the taste in water.", "ref": "BG 7.8" },
-  { "text": "I am the seed of all beings.", "ref": "BG 7.10" },
-  { "text": "Those deluded by the modes do not seek me.", "ref": "BG 7.13" },
-  { "text": "Four kinds of people worship me.", "ref": "BG 7.16" },
-  { "text": "Those who worship with devotion dwell in me.", "ref": "BG 7.17" },
-  { "text": "Fix your mind on me and you will reach me.", "ref": "BG 8.7" },
-  { "text": "Whatever one remembers at death, that they attain.", "ref": "BG 8.6" },
-  { "text": "The imperishable Brahman is the supreme goal.", "ref": "BG 8.21" },
-  { "text": "I sustain all beings but am not dependent on them.", "ref": "BG 9.5" },
-  { "text": "Those who worship me with devotion lack nothing.", "ref": "BG 9.22" },
-  { "text": "Even a sinner becomes righteous by devotion.", "ref": "BG 9.30" },
-  { "text": "Offer whatever you do to me.", "ref": "BG 9.27" },
-  { "text": "I am the source of all spiritual and material worlds.", "ref": "BG 10.8" },
-  { "text": "I am the self seated in the hearts of all beings.", "ref": "BG 10.20" },
-  { "text": "Among mountains, I am Meru.", "ref": "BG 10.23" },
-  { "text": "There is no end to my divine manifestations.", "ref": "BG 10.40" },
-  { "text": "With one fragment of myself I sustain the universe.", "ref": "BG 10.42" },
-  { "text": "Behold my universal form.", "ref": "BG 11.8" },
-  { "text": "I am time, the great destroyer.", "ref": "BG 11.32" },
-  { "text": "Neither hatred nor attachment defines my devotee.", "ref": "BG 12.15" },
-  { "text": "One who is friendly and compassionate is dear to me.", "ref": "BG 12.13" },
-  { "text": "The path of devotion is easiest.", "ref": "BG 12.5" },
-  { "text": "I support this entire universe.", "ref": "BG 13.3" },
-  { "text": "Humility and nonviolence are true knowledge.", "ref": "BG 13.8" },
-  { "text": "Nature and soul are beginningless.", "ref": "BG 13.20" },
-  { "text": "The knower of the field attains immortality.", "ref": "BG 13.23" },
-  { "text": "Goodness binds through happiness and knowledge.", "ref": "BG 14.6" },
-  { "text": "One who transcends the modes is freed.", "ref": "BG 14.20" },
-  { "text": "The supreme person is beyond decay.", "ref": "BG 15.18" },
-  { "text": "Cut down the tree of illusion with detachment.", "ref": "BG 15.3" },
-  { "text": "Divine qualities lead to liberation.", "ref": "BG 16.5" },
-  { "text": "Anger arises from desire.", "ref": "BG 16.21" },
-  { "text": "Faith determines a person’s nature.", "ref": "BG 17.3" },
-  { "text": "Austerity of speech is truthful and gentle words.", "ref": "BG 17.15" },
-  { "text": "Renunciation born of ignorance is tamasic.", "ref": "BG 18.7" },
-  { "text": "Knowledge, action, and doer are threefold.", "ref": "BG 18.18" },
-  { "text": "Better one’s own duty than another’s.", "ref": "BG 18.47" },
-  { "text": "By devotion one truly knows me.", "ref": "BG 18.55" },
-  { "text": "Abandon all duties and surrender to me.", "ref": "BG 18.66" },
-  { "text": "I will free you from all sins.", "ref": "BG 18.66" },
-  { "text": "This knowledge should not be given to the faithless.", "ref": "BG 18.67" },
-  { "text": "One who teaches this is most dear to me.", "ref": "BG 18.69" },
-  { "text": "Where Krishna and Arjuna stand, there is victory.", "ref": "BG 18.78" },
-  {
-    "text": "In this world, there is nothing so purifying as knowledge. One who has reached perfection in yoga finds this knowledge within themselves.",
-    "ref": "BG 4.38"
-  },
-  {
-    "text": "A person who is not disturbed by the incessant flow of desires—who has renounced all desires—can attain peace.",
-    "ref": "BG 2.70"
-  },
-  {
-    "text": "Man is made by his belief. As he believes, so he is.",
-    "ref": "BG 17.3"
-  },
-  {
-    "text": "The soul is neither born, and nor does it die",
-    "ref": "BG 2.20"
-  },
-  {
-    "text": "You came empty-handed, and you will leave empty-handed.",
-    "ref": "BG 2.47"
-  },
-  {
-    "text": "One who has control over the mind is tranquil in heat and cold, in pain and pleasure, and in honor and dishonor.",
-    "ref": "BG 6.7"
-  },
-  {
-    "text": "When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place.",
-    "ref": "BG 6.19"
-  },
-  {
-    "text": "A person who is not envious but who is a kind friend to all living entities, who is free from all fear, and whose heart is filled with compassion, is said to possess divine qualities.",
-    "ref": "BG 16.1-3"
-  },
-  {
-    "text": "The wise see the same truth in every living being, and in that wisdom, they see the unity of the divine.",
-    "ref": "BG 5.18"
-  },
-  {
-    "text": "Surrender all your works to me, with full knowledge of the self. Without selfishness, without ego, fight the battle.",
-    "ref": "BG 3.30"
-  },
-  {
-    "text": "A person who does not desire material things, whose mind is free from attachments, who sees the divine presence in everything, achieves peace.",
-    "ref": "BG 5.21"
-  },
-  {
-    "text": "Perform your duties with sincerity and without attachment to the results. This will lead to inner peace.",
-    "ref": "BG 3.19"
-  },
-  {
-    "text": "The one who has reached self-realization is unaffected by pain and pleasure.",
-    "ref": "BG 6.22"
-  },
-  {
-    "text": "In this world, there is no one more sinful than a person who causes harm to others.",
-    "ref": "BG 16.19"
-  },
-  {
-    "text": "The soul is eternal. It neither kills nor can be killed.",
-    "ref": "BG 2.19"
-  },
-  {
-    "text": "Everything is born of me, and everything moves in me. Nothing exists without me.",
-    "ref": "BG 9.4"
-  },
-  {
-    "text": "When your mind is free from distractions and desires, you will find the divine presence in everything.",
-    "ref": "BG 6.25"
-  },
-  {
-    "text": "The path of devotion is the easiest way to reach the supreme reality. One who surrenders completely attains liberation.",
-    "ref": "BG 9.22"
-  },
-  {
-    "text": "You are what you believe in. You become that which you believe you can become.",
-    "ref": "BG 17.3"
-  },
-  {
-    "text": "The one who has conquered himself is a true conqueror, and the one who conquers the world is not.",
-    "ref": "BG 6.5"
-  },
-  {
-    "text": "With the sword of wisdom, cut the doubts that bind your heart. With a steady mind, live in peace.",
-    "ref": "BG 4.42"
-  },
-  {
-    "text": "A true yogi sees the divine presence in all beings and does not make distinctions between people.",
-    "ref": "BG 6.29"
-  },
-  {
-    "text": "There is no greater worship than serving others with a pure heart and mind.",
-    "ref": "BG 9.22"
-  },
-  {
-    "text": "The wise do not grieve for the living or the dead.",
-    "ref": "BG 2.11"
-  },
-  {
-    "text": "The one who is devoted to the Supreme Lord and has given up all material attachments will achieve eternal peace.",
-    "ref": "BG 9.22"
-  },
-  {
-    "text": "The three qualities of nature—goodness, passion, and ignorance—control all beings. The one who transcends these qualities is free from birth and death.",
-    "ref": "BG 14.20"
-  },
-  {
-    "text": "He who sees me in all beings, and all beings in me, will never be separated from me, and I will never be separated from him.",
-    "ref": "BG 10.20"
-  },
-  {
-    "text": "Actions do not bind me. They are merely expressions of the divine will.",
-    "ref": "BG 4.14"
-  },
-  {
-    "text": "The one who is free from attachment, without desires, and without fear, is the true yogi.",
-    "ref": "BG 6.17"
-  },
-  {
-    "text": "You are what you believe yourself to be.",
-    "ref": "BG 17.3"
-  },
-  {
-    "text": "In truth, there is no distinction between the creator and the created. All is the divine play of God.",
-    "ref": "BG 9.10"
-  },
-  {
-    "text": "The path of knowledge leads to liberation, but it is not an easy path for those who are still attached to worldly desires.",
-    "ref": "BG 4.38"
-  },
-  {
-    "text": "When the mind is fixed on the divine, it is impossible for it to be distracted by material desires.",
-    "ref": "BG 6.20"
-  },
-  {
-    "text": "True freedom comes from the realization that the soul is eternal and is unaffected by the cycles of birth and death.",
-    "ref": "BG 2.13"
-  },
-  {
-    "text": "Do your work with love and devotion, without expecting any reward, and you will attain the supreme goal.",
-    "ref": "BG 3.30"
-  },
-  {
-    "text": "The wise person sees the same reality in a learned priest, a cow, an elephant, and even a dog.",
-    "ref": "BG 5.18"
-  },
-  {
-    "text": "He who has no attachment to the fruits of his work and is free from desires is a true yogi.",
-    "ref": "BG 6.4"
-  },
-  {
-    "text": "The one who surrenders all actions to the divine, with a mind detached from material desires, will be free from the bonds of karma.",
-    "ref": "BG 3.30"
-  },
-  {
-    "text": "No one who is devoted to me will ever be destroyed.",
-    "ref": "BG 9.31"
-  },
-  {
-    "text": "I am the light of the sun, and the moon, and the fire; I am the essence of all that is.",
-    "ref": "BG 7.8"
-  },
-  {
-    "text": "The person who has a pure heart and is free from desire will see the divine presence in all living beings.",
-    "ref": "BG 11.55"
-  },
-  {
-    "text": "The one who has mastered the senses and desires, and whose mind is detached from worldly pursuits, is a true yogi.",
-    "ref": "BG 6.6"
-  },
-  {
-    "text": "It is better to do one's own duty imperfectly than to do another's duty perfectly.",
-    "ref": "BG 3.35"
-  },
-  {
-    "text": "Those who seek liberation should transcend the body and the mind and live in the eternal self.",
-    "ref": "BG 5.24"
-  },
-  {
-    "text": "The one who is free from the dualities of pain and pleasure, heat and cold, and other such opposites, remains unshaken in all circumstances.",
-    "ref": "BG 2.14"
-  },
-  {
-    "text": "When you give up selfish desires and work for the good of others, you will find the peace you seek.",
-    "ref": "BG 3.19"
-  },
-  {
-    "text": "It is the nature of the soul to be eternal and unchanging.",
-    "ref": "BG 2.20"
-  },
-  {
-    "text": "A yogi sees the divine presence in all beings and is detached from worldly desires.",
-    "ref": "BG 6.29"
-  },
-  {
-    "text": "The self is never destroyed. It is eternal and indestructible.",
-    "ref": "BG 2.23"
-  }
+  { "text": "कर्म करने का अधिकार तुम्हारा है, फल पर नहीं।", "ref": "भगवद्गीता 2.47" },
+  { "text": "फल की आसक्ति त्याग कर कर्म करो।", "ref": "भगवद्गीता 2.47" },
+  { "text": "समत्व ही योग है।", "ref": "भगवद्गीता 2.48" },
+  { "text": "बुद्धियोग से कर्मों के बंधन कट जाते हैं।", "ref": "भगवद्गीता 2.49" },
+  { "text": "ज्ञानी दुख और सुख में समान रहता है।", "ref": "भगवद्गीता 2.56" },
+  { "text": "इंद्रियों पर संयम रखने वाला स्थिर बुद्धि वाला होता है।", "ref": "भगवद्गीता 2.61" },
+  { "text": "क्रोध से भ्रम और विवेक का नाश होता है।", "ref": "भगवद्गीता 2.63" },
+  { "text": "जो भीतर से संतुष्ट है वही शांत है।", "ref": "भगवद्गीता 2.70" },
+  { "text": "योग से कर्मों में कुशलता आती है।", "ref": "भगवद्गीता 2.50" },
+  { "text": "जो जन्मा है उसकी मृत्यु निश्चित है।", "ref": "भगवद्गीता 2.27" },
+
+  { "text": "अपने कर्तव्य का पालन भय से मुक्त करता है।", "ref": "भगवद्गीता 3.19" },
+  { "text": "यज्ञ से वर्षा और अन्न उत्पन्न होता है।", "ref": "भगवद्गीता 3.14" },
+  { "text": "कर्तव्य से विमुख होना पतन का कारण है।", "ref": "भगवद्गीता 3.35" },
+  { "text": "कामना ही क्रोध का मूल है।", "ref": "भगवद्गीता 3.37" },
+  { "text": "संयम से ज्ञान प्रकट होता है।", "ref": "भगवद्गीता 3.41" },
+
+  { "text": "ज्ञान यज्ञ सभी यज्ञों में श्रेष्ठ है।", "ref": "भगवद्गीता 4.33" },
+  { "text": "ज्ञान अग्नि कर्मों को भस्म कर देती है।", "ref": "भगवद्गीता 4.37" },
+  { "text": "श्रद्धावान ज्ञान प्राप्त करता है।", "ref": "भगवद्गीता 4.39" },
+  { "text": "अज्ञान शत्रु के समान है।", "ref": "भगवद्गीता 4.42" },
+
+  { "text": "कर्मयोगी संसार में बंधता नहीं।", "ref": "भगवद्गीता 5.10" },
+  { "text": "जो भीतर सुख पाता है वही मुक्त है।", "ref": "भगवद्गीता 5.24" },
+  { "text": "ज्ञानी सबको समान दृष्टि से देखता है।", "ref": "भगवद्गीता 5.18" },
+
+  { "text": "मन को अभ्यास और वैराग्य से वश में किया जा सकता है।", "ref": "भगवद्गीता 6.35" },
+  { "text": "योगी सबसे श्रेष्ठ है।", "ref": "भगवद्गीता 6.47" },
+  { "text": "जो आत्मा में स्थित है वह सुखी है।", "ref": "भगवद्गीता 6.20" },
+
+  { "text": "मैं इस जगत का आधार हूँ।", "ref": "भगवद्गीता 7.7" },
+  { "text": "मुझसे बढ़कर कुछ नहीं।", "ref": "भगवद्गीता 7.7" },
+  { "text": "जो मुझे जानता है वह मुक्त होता है।", "ref": "भगवद्गीता 7.30" },
+
+  { "text": "जो मुझे स्मरण करता है वह मुझे प्राप्त होता है।", "ref": "भगवद्गीता 8.5" },
+  { "text": "अभ्यास से मन स्थिर होता है।", "ref": "भगवद्गीता 8.8" },
+  { "text": "परम गति मुझे जानने से मिलती है।", "ref": "भगवद्गीता 8.15" },
+
+  { "text": "मैं सभी प्राणियों में समान रूप से स्थित हूँ।", "ref": "भगवद्गीता 9.29" },
+  { "text": "जो भक्ति से मुझे अर्पित करता है, मैं उसे स्वीकार करता हूँ।", "ref": "भगवद्गीता 9.26" },
+  { "text": "मेरा भक्त कभी नष्ट नहीं होता।", "ref": "भगवद्गीता 9.31" },
+
+  { "text": "मैं सबका हृदय में निवास करता हूँ।", "ref": "भगवद्गीता 10.20" },
+  { "text": "मैं ज्ञानियों का ज्ञान हूँ।", "ref": "भगवद्गीता 10.38" },
+  { "text": "मेरी विभूतियाँ अनंत हैं।", "ref": "भगवद्गीता 10.40" },
+
+  { "text": "समस्त लोक मुझमें स्थित हैं।", "ref": "भगवद्गीता 11.7" },
+  { "text": "काल रूप में मैं सबका संहार करता हूँ।", "ref": "भगवद्गीता 11.32" },
+
+  { "text": "भक्ति से ही मुझे जाना जा सकता है।", "ref": "भगवद्गीता 11.54" },
+
+  { "text": "जो मुझे प्रिय है वह द्वेष रहित होता है।", "ref": "भगवद्गीता 12.13" },
+  { "text": "भक्त सुख-दुख में समान रहता है।", "ref": "भगवद्गीता 12.15" },
+  { "text": "श्रद्धावान भक्त मुझे प्रिय है।", "ref": "भगवद्गीता 12.20" },
+
+  { "text": "क्षेत्र और क्षेत्रज्ञ को जानो।", "ref": "भगवद्गीता 13.1" },
+  { "text": "विनय और अहिंसा ज्ञान के लक्षण हैं।", "ref": "भगवद्गीता 13.7–8" },
+  { "text": "ज्ञान से मोक्ष प्राप्त होता है।", "ref": "भगवद्गीता 13.24" },
+
+  { "text": "सत्व ज्ञान की ओर ले जाता है।", "ref": "भगवद्गीता 14.6" },
+  { "text": "रजस आसक्ति उत्पन्न करता है।", "ref": "भगवद्गीता 14.7" },
+  { "text": "तमस अज्ञान को बढ़ाता है।", "ref": "भगवद्गीता 14.8" },
+  { "text": "तीनों गुणों से परे होना मुक्ति है।", "ref": "भगवद्गीता 14.20" },
+
+  { "text": "वैराग्य से बंधन कटते हैं।", "ref": "भगवद्गीता 15.3" },
+  { "text": "मैं ही वेदों से जाना जाता हूँ।", "ref": "भगवद्गीता 15.15" },
+  { "text": "जो मुझे जानता है वह बुद्धिमान है।", "ref": "भगवद्गीता 15.19" },
+
+  { "text": "अभय दैवी गुण है।", "ref": "भगवद्गीता 16.1" },
+  { "text": "अहंकार आसुरी स्वभाव है।", "ref": "भगवद्गीता 16.4" },
+  { "text": "क्रोध और लोभ विनाश के द्वार हैं।", "ref": "भगवद्गीता 16.21" },
+
+  { "text": "श्रद्धा मनुष्य का स्वरूप बनाती है।", "ref": "भगवद्गीता 17.3" },
+  { "text": "सात्त्विक आहार शुद्ध होता है।", "ref": "भगवद्गीता 17.8" },
+
+  { "text": "त्याग से शांति मिलती है।", "ref": "भगवद्गीता 18.2" },
+  { "text": "अपने स्वभाव के अनुसार कर्म करो।", "ref": "भगवद्गीता 18.45" },
+  { "text": "मुझमें शरण लो, मैं मुक्त करूँगा।", "ref": "भगवद्गीता 18.66" },
+
+  { "text": "कर्म ही जीवन की पहचान है।", "ref": "गीता 2.47" },
+  { "text": "कर्तव्य से भागना पतन है।", "ref": "गीता 3.8" },
+  { "text": "निष्काम कर्म शुद्ध करता है।", "ref": "गीता 3.19" },
+  { "text": "आसक्ति त्याग कर कर्म करो।", "ref": "गीता 2.47" },
+  { "text": "श्रेष्ठ वही जो उदाहरण बने।", "ref": "गीता 3.21" },
+  { "text": "कर्मयोग बंधन नहीं बनाता।", "ref": "गीता 5.10" },
+  { "text": "कर्तव्य भय को नष्ट करता है।", "ref": "गीता 3.35" },
+  { "text": "फल-त्याग से शांति मिलती है।", "ref": "गीता 12.11" },
+  { "text": "योग से कर्म पवित्र होते हैं।", "ref": "गीता 4.20" },
+  { "text": "कर्म जीवन का यज्ञ है।", "ref": "गीता 3.9" },
+  { "text": "अकर्म भी कर्म के समान है।", "ref": "गीता 4.18" },
+  { "text": "कर्तव्य से समाज चलता है।", "ref": "गीता 3.10" },
+  { "text": "संयमित कर्म श्रेष्ठ है।", "ref": "गीता 6.1" },
+  { "text": "कर्तव्य आत्मबल बढ़ाता है।", "ref": "गीता 18.45" },
+  { "text": "स्वकर्म में सिद्धि है।", "ref": "गीता 18.46" },
+  { "text": "कर्म से ही प्रगति होती है।", "ref": "गीता 3.5" },
+  { "text": "त्याग कर्म को महान बनाता है।", "ref": "गीता 18.9" },
+  { "text": "कर्म से पलायन संभव नहीं।", "ref": "गीता 3.4" },
+  { "text": "संतुलन से कर्म सफल होते हैं।", "ref": "गीता 2.48" },
+  { "text": "कर्म में कुशलता योग है।", "ref": "गीता 2.50" },
+  { "text": "कर्तव्य धर्म का आधार है।", "ref": "गीता 3.35" },
+  { "text": "कर्म आत्मविकास का साधन है।", "ref": "गीता 3.20" },
+  { "text": "निष्काम कर्म मुक्त करता है।", "ref": "गीता 5.12" },
+  { "text": "कर्म से ही यश मिलता है।", "ref": "गीता 3.24" },
+  { "text": "कर्तव्य पालन ही पूजा है।", "ref": "गीता 18.46" },
+  { "text": "भक्ति से मैं सुलभ हूँ।", "ref": "गीता 9.26" },
+  { "text": "मेरा भक्त नष्ट नहीं होता।", "ref": "गीता 9.31" },
+  { "text": "प्रेम ही सच्ची भक्ति है।", "ref": "गीता 12.15" },
+  { "text": "भक्ति से भय मिटता है।", "ref": "गीता 12.13" },
+  { "text": "श्रद्धा भक्ति की जड़ है।", "ref": "गीता 17.3" },
+  { "text": "भक्त मुझे प्रिय होता है।", "ref": "गीता 12.20" },
+  { "text": "समर्पण से मुक्ति मिलती है।", "ref": "गीता 18.66" },
+  { "text": "भक्ति अहंकार तोड़ती है।", "ref": "गीता 12.13" },
+  { "text": "स्मरण से आत्मबल बढ़ता है।", "ref": "गीता 8.7" },
+  { "text": "भक्ति सरल मार्ग है।", "ref": "गीता 12.2" },
+  { "text": "मुझमें मन लगाओ।", "ref": "गीता 12.8" },
+  { "text": "भक्ति से मन शांत होता है।", "ref": "गीता 12.12" },
+  { "text": "प्रेमपूर्वक अर्पण स्वीकार है।", "ref": "गीता 9.26" },
+  { "text": "भक्ति से पाप नष्ट होते हैं।", "ref": "गीता 9.30" },
+  { "text": "अनन्य भक्ति श्रेष्ठ है।", "ref": "गीता 9.22" },
+  { "text": "भक्त सभी से मैत्री रखता है।", "ref": "गीता 12.13" },
+  { "text": "भक्ति से ज्ञान प्रकट होता है।", "ref": "गीता 10.10" },
+  { "text": "भक्ति जीवन को मधुर बनाती है।", "ref": "गीता 12.15" },
+  { "text": "भक्त सुख-दुख में समान है।", "ref": "गीता 12.15" },
+  { "text": "भक्ति से चित्त शुद्ध होता है।", "ref": "गीता 12.17" },
+  { "text": "श्रद्धा भक्ति की शक्ति है।", "ref": "गीता 9.3" },
+  { "text": "भक्ति से बंधन कटते हैं।", "ref": "गीता 9.29" },
+  { "text": "भक्त द्वेष से मुक्त होता है।", "ref": "गीता 12.13" },
+  { "text": "भक्ति ही जीवन का सार है।", "ref": "गीता 12.20" },
+  { "text": "मुझमें शरण लो।", "ref": "गीता 18.66" },
+  { "text": "ज्ञान अज्ञान को नष्ट करता है।", "ref": "गीता 4.38" },
+  { "text": "ज्ञान सभी पाप हरता है।", "ref": "गीता 4.36" },
+  { "text": "ज्ञानी मुक्त होता है।", "ref": "गीता 5.17" },
+  { "text": "ज्ञान से शांति मिलती है।", "ref": "गीता 4.39" },
+  { "text": "आत्मज्ञान अमर है।", "ref": "गीता 2.20" },
+  { "text": "ज्ञान सर्वोच्च यज्ञ है।", "ref": "गीता 4.33" },
+  { "text": "ज्ञानी समदर्शी होता है।", "ref": "गीता 5.18" },
+  { "text": "ज्ञान से मोह कटता है।", "ref": "गीता 10.11" },
+  { "text": "ज्ञान से विवेक जागता है।", "ref": "गीता 2.50" },
+  { "text": "आत्मा अविनाशी है।", "ref": "गीता 2.17" },
+  { "text": "ज्ञान से भय मिटता है।", "ref": "गीता 4.39" },
+  { "text": "ज्ञानी सबमें एक देखता है।", "ref": "गीता 6.29" },
+  { "text": "ज्ञान मोक्ष का द्वार है।", "ref": "गीता 13.24" },
+  { "text": "ज्ञान प्रकाश है।", "ref": "गीता 14.6" },
+  { "text": "अज्ञान बंधन है।", "ref": "गीता 5.15" },
+  { "text": "ज्ञान आत्मबल देता है।", "ref": "गीता 7.1" },
+  { "text": "ज्ञान से कर्म शुद्ध होते हैं।", "ref": "गीता 4.37" },
+  { "text": "ज्ञान आत्मा को पहचानता है।", "ref": "गीता 13.12" },
+  { "text": "ज्ञान से दृष्टि बदलती है।", "ref": "गीता 18.20" },
+  { "text": "ज्ञानी दुख से मुक्त है।", "ref": "गीता 2.56" },
+  { "text": "ज्ञान सत्य का मार्ग है।", "ref": "गीता 4.34" },
+  { "text": "ज्ञान से स्थिरता आती है।", "ref": "गीता 2.57" },
+  { "text": "ज्ञान आत्मसाक्षात्कार है।", "ref": "गीता 6.20" },
+  { "text": "ज्ञान से अमरत्व मिलता है।", "ref": "गीता 13.13" },
+  { "text": "ज्ञान परम धन है।", "ref": "गीता 9.2" },
+  { "text": "ध्यान से मन शांत होता है।", "ref": "गीता 6.20" },
+  { "text": "अभ्यास से मन वश में होता है।", "ref": "गीता 6.35" },
+  { "text": "ध्यान आत्मा से मिलाता है।", "ref": "गीता 6.18" },
+  { "text": "स्थिर मन योगी का लक्षण है।", "ref": "गीता 6.13" },
+  { "text": "ध्यान से सुख भीतर मिलता है।", "ref": "गीता 6.21" },
+  { "text": "योगी सबसे श्रेष्ठ है।", "ref": "गीता 6.47" },
+  { "text": "मन ही बंधन और मुक्ति है।", "ref": "गीता 6.5" },
+  { "text": "संयम ध्यान की कुंजी है।", "ref": "गीता 6.16" },
+  { "text": "ध्यान से विवेक बढ़ता है।", "ref": "गीता 6.12" },
+  { "text": "योग से आत्मदर्शन होता है।", "ref": "गीता 6.29" },
+  { "text": "ध्यान से भय मिटता है।", "ref": "गीता 6.27" },
+  { "text": "शांत चित्त सुख देता है।", "ref": "गीता 6.15" },
+  { "text": "योग संतुलन सिखाता है।", "ref": "गीता 6.17" },
+  { "text": "ध्यान से आत्मबल बढ़ता है।", "ref": "गीता 6.10" },
+  { "text": "योगी आत्मसंतुष्ट होता है।", "ref": "गीता 6.20" },
+  { "text": "मन की शुद्धि ध्यान है।", "ref": "गीता 6.12" },
+  { "text": "योग से स्थिरता आती है।", "ref": "गीता 6.26" },
+  { "text": "ध्यान मौन का ज्ञान है।", "ref": "गीता 6.25" },
+  { "text": "योगी सुख-दुख से परे है।", "ref": "गीता 6.7" },
+  { "text": "ध्यान आत्मशांति देता है।", "ref": "गीता 6.28" },
+  { "text": "योग आत्मविकास है।", "ref": "गीता 6.23" },
+  { "text": "ध्यान से चेतना जागती है।", "ref": "गीता 6.19" },
+  { "text": "योग से जीवन संतुलित होता है।", "ref": "गीता 6.17" },
+  { "text": "ध्यान मोक्ष का मार्ग है।", "ref": "गीता 6.32" },
+  { "text": "योग आत्मा की यात्रा है।", "ref": "गीता 6.45" }
+
+
+
 ]

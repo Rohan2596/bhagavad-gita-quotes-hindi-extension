@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Bhagavad Gita Quotes",
-  "version": "1.1",
-  "description": "Daily Bhagavad Gita wisdom",
+  "name": "Bhagavad Gita Quotes - Hindi",
+  "version": "1.0",
+  "description": "Daily Bhagavad Gita wisdom - Hindi",
   "action": {
     "default_popup": "popup.html"
   },

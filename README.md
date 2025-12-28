@@ -1,13 +1,13 @@
-# Bhagavad Gita Quotes – Chrome Extension 🕉
+# Bhagavad Gita Quotes - Hindi – Chrome Extension 🕉
 
-Bhagavad Gita Quotes is a lightweight Chrome extension that delivers timeless wisdom from the Bhagavad Gita through daily notifications and a clean popup interface.
+Bhagavad Gita Quotes - Hindi is a lightweight Chrome extension that delivers timeless wisdom from the Bhagavad Gita through daily notifications and a clean popup interface.
 
 ---
 
 ## ✨ Features
 
-- 📜 Daily Bhagavad Gita quote notifications
-- 🔄 Browse shuffled Gita verses
+- 📜 Daily Bhagavad Gita quote(Hindi) notifications
+- 🔄 Browse shuffled Gita (Hindi) verses
 - ❤️ Save and view favorite quotes
 - 🌙 Light & Dark mode
 - 💾 Remembers last viewed quote
@@ -50,5 +50,5 @@ No personal data is collected or shared.
 
 This project is intended for educational, spiritual, and personal use.
 
-🕉 *“You have the right to perform your duty, but not to the fruits of action.”*  
+🕉 *“कर्म ही जीवन की पहचान है।",  गीता - 2.47 ”*  
 — Bhagavad Gita
