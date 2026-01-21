@@ -1,0 +1,119 @@
+:root {
+  --bg: #faf7f2;
+  --card: #ffffff;
+  --text: #2e2a26;
+  --accent: #d4a437;
+  --border: #e6dccb;
+  --shadow: rgba(0, 0, 0, 0.08);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--bg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  color: var(--text);
+}
+
+.card {
+  background: var(--card);
+  width: 90%;
+  max-width: 450px;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 15px 35px var(--shadow);
+  text-align: center;
+  border: 1px solid var(--border);
+  position: relative;
+}
+
+.om-icon {
+  font-size: 48px;
+  color: var(--accent);
+  margin-bottom: 15px;
+  display: block;
+}
+
+h1 {
+  color: var(--text);
+  margin: 0 0 10px 0;
+  font-weight: 600;
+  letter-spacing: -0.5px;
+}
+
+.subtitle {
+  color: #706a64;
+  font-size: 16px;
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+.instruction-box {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  padding: 20px;
+  border-radius: 12px;
+  text-align: left;
+  margin-bottom: 30px;
+}
+
+.step {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 15px;
+  font-size: 15px;
+}
+
+.step:last-child { margin-bottom: 0; }
+
+.step-num {
+  background: var(--accent);
+  color: white;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  font-weight: bold;
+  margin-right: 12px;
+  flex-shrink: 0;
+}
+
+.btn {
+  background: var(--accent);
+  color: white;
+  border: none;
+  padding: 16px 32px;
+  border-radius: 12px;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+  width: 100%;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.footer {
+  margin-top: 25px;
+  font-size: 12px;
+  color: #a8a29a;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+.shree-icon {
+    font-family: "Noto Serif Devanagari", serif;
+    font-size: 42px;
+    font-weight: 700;
+    color: #d4af37; /* divine gold */
+    display: block;
+    margin-bottom: 10px;
+}

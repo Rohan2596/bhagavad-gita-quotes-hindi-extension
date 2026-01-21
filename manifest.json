@@ -1,10 +1,12 @@
 {
   "manifest_version": 3,
   "name": "Bhagavad Gita Quotes - Daily Hindi Shlokas",
-  "version": "1.1",
-  "description": "Daily Shrimad Bhagavad Gita Shlokas in Hindi. Get Krishna quotes, daily notifications, and offline wisdom to boost mindfulness.",
+  "version": "1.1.1",
+  "short_name": "Gita Quotes - गीता सार",
+  "description": "Daily Shrimad Bhagavad Gita Shlokas in Hindi. Get Krishna quotes, Gita Saar, daily notifications, and offline wisdom for mindfulness.",
   "action": {
-    "default_popup": "popup.html"
+    "default_popup": "popup.html",
+    "default_title": "Daily Bhagavad Gita Shloka"
   },
   "background": {
     "service_worker": "background.js"
@@ -16,8 +18,14 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["quotes.json"],
-      "matches": ["<all_urls>"]
+      "resources": [
+        "quotes.json",
+        "welcome.html",
+        "welcome.css"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
     }
   ],
   "icons": {
@@ -25,5 +33,4 @@
     "100": "icon/icon100.png",
     "128": "icon/icon128.png"
   }
-
 }

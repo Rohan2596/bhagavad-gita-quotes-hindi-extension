@@ -5,6 +5,14 @@ chrome.runtime.onInstalled.addListener(() => {
   });
 });
 
+chrome.runtime.onInstalled.addListener((details) => {
+  if (details.reason === "install") {
+    chrome.tabs.create({
+      url: "welcome.html" // Create this file in your root folder
+    });
+  }
+});
+
 chrome.alarms.onAlarm.addListener(alarm => {
   if (alarm.name === "dailyGitaQuote") {
     fetch(chrome.runtime.getURL("quotes.json"))
